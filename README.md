@@ -4,12 +4,12 @@ Oscar Potrony Compaired
 
 Trabajo final de grado de ingeniería informática, en Universidad de Zaragoza
 
-Con el fichero AD.sql se puede crear, en Oracle, el almacén de datos.
+Con el fichero Creacion_Almacen.sql se puede crear, en Oracle, el almacén de datos.
 En la carpeta Datos se pueden encontrar todos los datos necesarios para llenar el almacén de datos planteado inicialmente.
   Para insertar los datos de Fact_AlineacionesConocidas y de AggFact_EquipoTemporada, se han incorporado sendos ficheros SQL
   de inserción, ya que debido al uso de varrays es más complicado añadirlos directamente de los ficheros CSV correspondientes.
 A partir de ahí, ya es posible explotar el almacén de datos.
 
 También se ha incluido el fichero Consultas.sql, para poder realizar consultas ya planteadas,
-TFG.pbix para poder consultar los dashboards creados en Microsoft PowerBI y MD.R para poder
+Informes.pbix para poder consultar los dashboards creados en Microsoft PowerBI y Funciones_Mineria.R para poder
 utilizar los programas creados en R para obtener grupos de jugadores y alineaciones.
