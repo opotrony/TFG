@@ -1,0 +1,165 @@
+"idEquipo","nombre","nombreCorto","versionActual"
+1,"Evian Thonon Gaillard F.C.","ETG",356
+2,"US Boulogne","BOU",333
+3,"Novara Calcio","NOV",711
+4,"Gazélec Ajaccio","GAJ",395
+5,"S.C. Bastia","BAS",372
+6,"Stade Malherbe Caen","CAE",228
+7,"Córdoba CF","COR",918
+8,"Granada CF","GRA",892
+9,"U.S. Sassuolo Calcio","SAS",726
+10,"Angers SCO","ANG",393
+11,"FC St. Pauli","STP",528
+12,"1. FC Nürnberg","NUR",510
+13,"Hertha BSC","HBE",455
+14,"Bayer 04 Leverkusen","LEV",413
+15,"Burnley F.C.","BUR",138
+16,"Fortuna Düsseldorf","FDU",540
+17,"Leicester City F.C.","LEI",192
+18,"TSG 1899 Hoffenheim","HOF",475
+19,"FC Ingolstadt 04","ING",561
+20,"SV Darmstadt 98","DAR",562
+21,"Karlsruher SC","KAR",492
+22,"Sevilla FC","SEV",796
+23,"Getafe CF","GET",808
+24,"Unión Deportiva Las Palmas","LAS",924
+25,"Athletic Club","BIL",838
+26,"Cardiff City F.C.","CAR",186
+27,"1. FC Kaiserslautern","KAI",522
+28,"Greuther Fürth","GRF",546
+29,"SC Freiburg","FRE",504
+30,"Rayo Vallecano","RAY",898
+31,"Club Atlético Osasuna","OSA",755
+32,"SD Eibar","EIB",912
+33,"Club Deportivo Numancia","NUM",779
+34,"Real Zaragoza","ZAR",866
+35,"FC Energie Cottbus","COT",469
+36,"FC Augsburg","AUG",534
+37,"Chelsea F.C.","CHE",114
+38,"Manchester City F.C.","MCI",60
+39,"SC Paderborn 07","PAD",556
+40,"Portsmouth F.C.","POR",120
+41,"Southampton F.C.","SOU",168
+42,"Sunderland A.F.C.","SUN",30
+43,"Huelva","HUE",820
+44,"A.S. Nancy-Lorraine","NAN",280
+45,"Blackpool F.C.","BLA",144
+46,"Stade Brestois 29","BRE",345
+47,"Atalanta B.C.","ATA",568
+48,"Wigan Athletic F.C.","WIG",48
+49,"Cagliari","CAG",579
+50,"Calcio Catania","CAT",591
+51,"A.C. ChievoVerona","CHI",603
+52,"Empoli F.C.","EMP",732
+53,"ACF Fiorentina","FIO",614
+54,"Associazione Sportiva Livorno Calcio","LIV",689
+55,"Unione Sportiva Città di Palermo","PAL",677
+56,"S.S. Lazio","LAZ",585
+57,"Middlesbrough F.C.","MID",78
+58,"F.C. Metz","MET",387
+59,"Robur Siena","SIE",573
+60,"RCD Espanyol","ESP",826
+61,"Bolton Wanderers F.C.","BOL",90
+62,"Real Sociedad","SOC",887
+63,"A.C. Milan","ACM",626
+64,"A.C. Ajaccio","AJA",351
+65,"Levante UD","LEV",881
+66,"A.J. Auxerre","AUX",210
+67,"Tottenham Hotspur F.C.","TOT",84
+68,"R.C. Lens","LEN",324
+69,"Olympique de Marseille","MAR",298
+70,"Udinese Calcio","UDI",671
+71,"Wolverhampton Wanderers F.C.","WOL",132
+72,"Real Betis Balompié","BET",814
+73,"Real Madrid C.F.","REA",773
+74,"FC Barcelona","BAR",785
+75,"FC Inter Milan","INT",656
+76,"Lille O.S.C.","LIL",286
+77,"Liverpool F.C.","LIV",36
+78,"West Ham United F.C.","WHU",42
+79,"Blackburn Rovers F.C.","BLB",72
+80,"Birmingham City F.C.","BIR",126
+81,"West Bromwich Albion F.C.","WBA",24
+82,"RCD Mallorca","MAL",749
+83,"Hull City A.F.C.","HUL",102
+84,"Everton F.C.","EVE",66
+85,"AFC Bournemouth","BOU",198
+86,"Le Mans U.C. 72","LEM",244
+87,"A.S. Roma","ROM",638
+88,"F.C. Lorient","LOR",250
+89,"Urbs Reggina 1914","REG",608
+90,"Racing de Santander","SAN",790
+91,"SV Werder Bremen","WBR",464
+92,"VfL Wolfsburg","WOL",437
+93,"1. FC Köln","FCK",443
+94,"Le Havre A.C.","LEH",234
+95,"En Avant de Guingamp","GUI",382
+96,"Olympique Lyonnais","LYO",256
+97,"Eintracht Braunschweig","BRA",550
+98,"Deportivo de La Coruña","COR",767
+99,"Borussia Mönchengladbach","GLA",481
+100,"Borussia Dortmund","DOR",419
+101,"Hamburger SV","HAM",407
+102,"Reading F.C.","REA",174
+103,"Torino Football Club","TOR",662
+104,"Eintracht Frankfurt","EFR",449
+105,"Watford F.C.","WAT",204
+106,"FC Bayern Munich","BMU",401
+107,"Arsenal","ARS",18
+108,"Crystal Palace F.C.","CRY",180
+109,"F.C. Girondins de Bordeaux","BOR",222
+110,"AS Monaco FC","MON",268
+111,"F.C. Nantes","NAN",216
+112,"O.G.C. Nice","NIC",240
+113,"Dijon FCO","DIJ",362
+114,"Stade de Reims","REI",367
+115,"Paris Saint-Germain","PSG",274
+116,"Norwich City F.C.","NOR",162
+117,"Stade Rennais F.C.","REN",292
+118,"A.S. Saint-Étienne","ETI",318
+119,"Grenoble Foot 38","GRE",306
+120,"Bologna F.C. 1909","BOL",632
+121,"Brescia Calcio","BRE",707
+122,"Málaga C.F.","MAL",856
+123,"UD Almería","ALM",844
+124,"C.D. Tenerife","TEN",870
+125,"Xerez C.D.","XER",860
+126,"Sporting Gijón","SPG",802
+127,"Valenciennes F.C.","VAL",312
+128,"F.C. Sochaux-Montbéliard","SOC",304
+129,"Napoli","NAP",644
+130,"Hellas Verona F.C.","VER",720
+131,"Delfino Pescara 1936","PES",716
+132,"Fulham F.C.","FUL",108
+133,"Cesena","CES",701
+134,"Unione Calcio Sampdoria","SAM",650
+135,"Juventus F.C.","JUV",620
+136,"Unione Sportiva Lecce","LEC",665
+137,"Frosinone Calcio","FRO",735
+138,"Hannover 96","HAN",431
+139,"1. FSV Mainz 05","MAI",516
+140,"Atlético Madrid","AMA",850
+141,"Celta Vigo","CEL",904
+142,"VfL Bochum","BOC",498
+143,"Arminia Bielefeld","BIE",458
+144,"Toulouse F.C.","TOU",262
+145,"F.C. Bari 1908","BAR",683
+146,"Swansea City A.F.C.","SWA",150
+147,"Parma Calcio 1913","PAR",695
+148,"Queens Park Rangers F.C.","QPR",156
+149,"FC Schalke 04","S04",425
+150,"Stoke City F.C.","STK",96
+151,"Villarreal Club de Fútbol","VIL",761
+152,"Genoa Cricket and Football Club","GEN",597
+153,"E.S. Troyes A.C.","TRO",377
+154,"Montpellier Hérault Sport Club","MON",330
+155,"Aston Villa F.C.","AVL",54
+156,"Manchester United F.C.","MUN",6
+157,"Newcastle United F.C.","NEW",12
+158,"Valencia CF","VAL",743
+159,"Elche CF","ELC",910
+160,"VfB Stuttgart","STU",487
+161,"Hércules CF","HER",875
+162,"Real Valladolid","VAL",832
+163,"AC Arles","ARL",339
+164,"Carpi FC 1909","CAP",737

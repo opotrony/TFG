@@ -1,0 +1,165 @@
+"idEstadio","nombre","capacidad","coordenadaX","coordenadaY"
+1,"Estadio Municipal de Santo Domingo",5000,-3.840556,40.338889
+2,"Estadio Nuevo Los Cármenes",19436,-3.595736,37.152967
+3,"Stade Raymond Kopa",18000,-0.530741,47.460458
+4,"Millerntor-Stadion",29063,9.967778,53.554444
+5,"Stadion Nürnberg",50000,11.125278,49.426389
+6,"BayArena",30210,7.002205555,51.038255555
+7,"Merkur Spielarena",66000,6.733083,51.261539
+8,"Rhein-Neckar Arena",30150,8.888278,49.239
+9,"Audi Sportpark",15000,11.485,48.745555555
+10,"Stadion am Böllenfalltor",19000,8.672222,49.857778
+11,"Wildparkstadion",29699,8.413055555,49.02
+12,"Estadio Ramón Sánchez Pizjuán",45500,-5.970467,37.383878
+13,"Coliseum Alfonso Pérez",8800,-3.714722,40.325556
+14,"Fritz-Walter-Stadion",49780,7.775833,49.434444
+15,"Schwarzwald-Stadion",24000,7.893056,47.988889
+16,"Campo de Fútbol de Vallecas",14708,-3.658961,40.391944
+17,"Ipurúa Municipal Stadium",7083,-2.475803,43.181706
+18,"La Romareda",34596,-0.901822,41.636592
+19,"Stadion der Freundschaft",22528,14.345556,51.751389
+20,"Benteler-Arena",15000,8.710833,51.731389
+21,"Stade Francis-Le Blé",15097,-4.461694,48.402932
+22,"Estadi Cornellà-El Prat",40500,2.075667,41.347861
+23,"Anoeta Stadium",32076,-1.973617,43.301378
+24,"Estadi Ciutat de València",26354,-0.364167,39.494722
+25,"Stade Vélodrome",67000,5.395833333,43.269722222
+26,"Estadio Benito Villamarín",60720,-5.981611,37.356403
+27,"Camp Nou",99354,2.1225,41.380833
+28,"Son Moix",23142,2.63,39.59
+29,"Weserstadion",42500,8.8375,53.066389
+30,"Volkswagen Arena",30000,10.803889,52.431944
+31,"RheinEnergie Stadion",50000,6.875,50.933611
+32,"Stade de Roudourou",18250,-3.164597222,48.566286111
+33,"Parc Olympique lyonnais",59286,4.982131,45.765224
+34,"Eintracht-Stadion",24406,10.521389,52.29
+35,"Borussia-Park",54057,6.385463888,51.174583333
+36,"Signal Iduna Park",81359,7.451667,51.4925
+37,"Commerzbank-Arena",51500,8.645278,50.068611
+38,"Allianz Arena",85000,11.624752777,48.218775
+39,"Setsoto Stadium",20000,27.501339,-29.310975
+40,"Stade Gaston Gérard",15995,5.069247,47.324469
+41,"Stade Auguste Delaune",21684,4.025,49.246667
+42,"Parc des Princes",48712,2.253055555,48.841388888
+43,"Stade des Alpes",20068,5.740099,45.187428
+44,"Estadio de los Juegos Mediterráneos",22000,-2.435278,36.84
+45,"Stadio San Paolo",60240,14.193008,40.827967
+46,"Opel Arena",34034,8.224167,49.984167
+47,"Estadio Metropolitano",68000,-3.599444,40.436111
+48,"Ruhrstadion",29299,7.236489,51.489944
+49,"Veltins Arena",62271,7.067588888,51.554502777
+50,"Mestalla Stadium",53000,-0.358333,39.474722
+51,"Estadio Manuel Martínez Valero",36017,-0.663333,38.266944
+52,"Mercedes-Benz Arena",60441,9.231944,48.792222
+53,"Estadio Nuevo José Zorrilla",26512,-4.761111,41.644444
+54,"Parc des Sports, Annecy",15714,6.120092,45.917081
+55,"Stade de la Libération",6600,1.619411,50.723742
+56,"Stade Armand Cesari",16000,9.442619,42.6514
+57,"Olympiastadion Berlin",74475,13.239444444,52.514722222
+58,"Turf Moor",22546,-2.230225,53.789064
+59,"King Power Stadium",32262,-1.142222222,52.620277777
+60,"San Mamés Stadium",53289,-2.949369,43.264205
+61,"Cardiff City Stadium",33260,-3.203056,51.472778
+62,"Trolli Arena",18500,10.999167,49.486944
+63,"Etihad Stadium",41000,-2.200277777,53.483055555
+64,"Fratton Park",21100,-1.063888888,50.796388888
+65,"St Mary's Stadium",32589,-1.39111111,50.90583333
+66,"Stade Marcel Picot",20087,6.210687,48.6955
+67,"Bloomfield Road",17338,-3.048056,53.804722
+68,"Stadio Atleti Azzurri d'Italia",26642,9.680833,45.708889
+69,"DW Stadium",25133,-2.653889,53.547778
+70,"Stadio Marc'Antonio Bentegodi",38402,10.968647,45.435356
+71,"Stadio Artemio Franchi",47282,11.282258,43.780822
+72,"Riverside Stadium",34742,-1.216944444,54.578333333
+73,"Stade Saint-Symphorien",26671,6.159511,49.109813
+74,"Reebok Stadium",28723,-2.535555555,53.580555555
+75,"Stade François Coty",10660,8.776444444,41.930761111
+76,"Stade de l'Abbé-Deschamps",24493,3.588664,47.786753
+77,"White Hart Lane",36284,-0.065833333,51.603333333
+78,"Stade Félix-Bollaert",38233,2.814722,50.432778
+79,"Molineux Stadium",30852,-2.130277777,52.590277777
+80,"Estadio Santiago Bernabéu",81044,-3.68835,40.45306
+81,"Anfield",54167,-2.960827777,53.430819444
+82,"London Stadium",60000,-0.016389,51.538611
+83,"Ewood Park",31367,-2.489166666,53.728611111
+84,"St Andrew's",30016,-1.868188888,52.475702777
+85,"The Hawthorns",26445,-1.963888888,52.509166666
+86,"Goodison Park",40157,-2.966388888,53.438888888
+87,"Dean Court",12000,-1.838333,50.735278
+88,"Stade du Moustoir",18500,-3.369733,47.748256
+89,"Campos de Sport de El Sardinero",22222,-3.793333,43.476389
+90,"Stade Océane",33000,0.174722,49.499722
+91,"Estadio Municipal de abanca Riazor",33091,-8.417372,43.368667
+92,"Madejski Stadium",24161,-0.982777777,51.422222222
+93,"Selhurst Park",26255,-0.085555555,51.398333333
+94,"Stade Bordeaux-Atlantique",42566,-0.563333,44.896944
+95,"Stade Louis II",18523,7.415556,43.727778
+96,"Stade de la Beaujoire",38128,-1.525278,47.255556
+97,"Allianz Riviera",50624,7.192583333,43.705138888
+98,"Carrow Road",27244,1.308653,52.622128
+99,"Roazhon Park",31127,-1.712833,48.107444
+100,"Stade Geoffroy-Guichard",41965,4.39,45.460833
+101,"Estadio Heliodoro Rodríguez López",21732,-16.260555555,28.463055555
+102,"Stade du Hainaut",25000,3.529336,50.348486
+103,"Stade Auguste Bonal",20025,6.811094,47.512403
+104,"Stadio Marc'Antonio Bentegodi",38402,10.968647,45.435356
+105,"Balaídos",29000,-8.740328,42.211861
+106,"Bielefelder Alm",27300,8.516944,52.031389
+107,"Stadium Municipal",45000,1.434055,43.583296
+108,"Loftus Road",18439,-0.232222222,51.509166666
+109,"Britannia Stadium",27740,-2.175555555,52.988333333
+110,"Stade de l'Aube",20400,4.098458,48.307561
+111,"Stade de la Mosson",32900,3.811944,43.621944
+112,"Villa Park",42682,-1.884722222,52.509166666
+113,"Old Trafford",75731,-2.291388888,53.463055555
+114,"St James' Park",52405,-1.621666666,54.975555555
+115,"stade Fernand Furnier",17518,4.845,43.928333
+116,"Stadio Silvio Piola (Novara)",17875,8.595833,45.435833
+117,"Stade Ange Casanova",6000,8.772222,41.951389
+118,"Stade Michel d'Ornano",21068,-0.39675,49.179444
+119,"Stadio Alberto Braglia",21151,10.923333,44.653611
+120,"Estadio Gran Canaria",33111,-15.456667,28.1
+121,"El Sadar Stadium",18900,-1.636944,42.796667
+122,"Nuevo Estadio Los Pajaritos",9025,-2.467778,41.754444
+123,"Stamford Bridge stadium",41875,-0.191111111,51.481666666
+124,"Stadium of Light",49000,-1.3882,54.9144
+125,"Estadio Nuevo Colombino",21670,-6.954167,37.246389
+126,"Stadio Angelo Massimino",23420,15.071389,37.515833
+127,"Stadio Carlo Castellani",19847,10.955,43.726389
+128,"Stadio Armando Picchi",19238,10.314167,43.526667
+129,"Stadio Renzo Barbera",36349,13.342275,38.152767
+130,"Stadio Olimpico",82456,12.454714,41.933872
+131,"Stadio Artemio Franchi",15373,11.326111,43.321667
+132,"San Siro",80018,9.124,45.47808
+133,"Stadio Friuli",30642,13.200136,46.081603
+134,"San Siro",80018,9.124,45.47808
+135,"Stade Pierre-Mauroy",50000,3.130556,50.611944
+136,"KC Stadium",25400,-0.367777777,53.746111111
+137,"MMArena",25000,0.223372222,47.959094444
+138,"Stadio Olimpico",82456,12.454714,41.933872
+139,"Stadio Oreste Granillo",27543,15.635278,38.092778
+140,"Volksparkstadion",57000,9.898611,53.586944
+141,"Stadio Olimpico Grande Torino",28140,7.65,45.041667
+142,"Vicarage Road",17477,-0.401606,51.649928
+143,"Stadio Renato Dall'Ara",38279,11.309722222,44.492222222
+144,"Stadio Mario Rigamonti",16308,10.236944,45.570556
+145,"La Rosaleda Stadium",30044,-4.426422,36.734092
+146,"Estadio Municipal de Chapín",20523,-6.120278,36.689167
+147,"El Molinón-Enrique Castro Quini",29500,-5.637222,43.536111
+148,"Stadio Adriatico",24400,14.22944444,42.45527778
+149,"Craven Cottage",25700,-0.221666666,51.475
+150,"Stadio Luigi Ferraris",36703,8.952428,44.416431
+151,"Juventus Stadium",41800,7.641247,45.109594
+152,"Stadio Via del Mare",33876,18.208889,40.365278
+153,"Benito Stirpe Stadium",16227,13.321866,41.63426
+154,"Stadio San Nicola",58270,16.840072,41.084736
+155,"Liberty Stadium",20750,-3.9351,51.6422
+156,"Stadio Ennio Tardini",27906,10.338675,44.794947222
+157,"Estadio de la Cerámica",22000,-0.103611,39.944167
+158,"Stadio Luigi Ferraris",36703,8.952428,44.416431
+159,"Estadio José Rico Pérez",30000,-0.4925,38.357222
+160,"Stadio Alberto Braglia",21151,10.923333,44.653611
+161,"SGL arena",30660,10.882222,48.3225
+162,"Sardegna Arena",16000,9.137736,39.200004
+163,"Estadio Dino Manuzzi",23860,12.261944,44.140556
+164,"HDI-Arena",49000,9.731197,52.360067
