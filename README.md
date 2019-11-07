@@ -1,9 +1,8 @@
-# TFG
-# Author: Oscar Potrony Compaired
-# Date: 07/11/2019
-# Universidad de Zaragoza
-Sistema de ayuda a la elección de la alineación de un partido de fútbol profesional
-(Support system for choosing a suitable lineup for professional football matches)
+# Sistema de ayuda a la elección de la alineación de un partido de fútbol profesional / Support system for choosing a suitable lineup for professional football matches
+
+Oscar Potrony Compaired
+
+Trabajo final de grado de ingeniería informática, en Universidad de Zaragoza
 
 Con el fichero AD.sql se puede crear, en Oracle, el almacén de datos.
 En la carpeta Datos se pueden encontrar todos los datos necesarios para llenar el almacén de datos planteado inicialmente.
