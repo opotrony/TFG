@@ -11,5 +11,6 @@ En la carpeta Datos se pueden encontrar todos los datos necesarios para llenar e
 A partir de ahí, ya es posible explotar el almacén de datos.
 
 También se ha incluido el fichero Consultas.sql, para poder realizar consultas ya planteadas,
-Informes.pbix para poder consultar los dashboards creados en Microsoft PowerBI y Funciones_Mineria.R para poder
-utilizar los programas creados en R para obtener grupos de jugadores y alineaciones.
+Informes.pbix para poder consultar los dashboards creados en Microsoft PowerBI (necesario ser usuario PRO para algunas funciones)
+y Funciones_Mineria.R para poder utilizar los programas creados en R para obtener grupos de jugadores y alineaciones (necesario 
+cambiar la información del almacén de datos en la información de administrador, al final del fichero, para que R descargue bien los ficheros, así como la ruta de los dos csv referenciados en el mismo).
