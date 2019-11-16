@@ -399,6 +399,3 @@ CREATE TABLE AggFact_EquipoTemporada (
 	FOREIGN KEY(idEquipo) REFERENCES DIM_Equipo (idEquipo),
 	FOREIGN KEY(idLiga) REFERENCES DIM_Liga (idLiga)
 );
-
-# Nota: No se asegura la consistencia de los ids de los jugadores donde están involucrados los varrays
-# (Fact_AlineacionesConocidas y AggFact_EquipoTemporada), ya que no lo permiten de forma nativa
